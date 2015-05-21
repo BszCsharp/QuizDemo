@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataAccess.DataTransfer">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEQAAAQAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.Kunde">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
