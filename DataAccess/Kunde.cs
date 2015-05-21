@@ -13,7 +13,7 @@ namespace DataAccess
         public String GebDat { get; set; }
         public override string ToString()
         {
-            return this.KundenID + ": " + this.Name;
+            return this.KundenID + ": " + this.Name + ", " + this.VName;
         }
 
     }
